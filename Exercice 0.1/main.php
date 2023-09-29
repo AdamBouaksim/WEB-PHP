@@ -8,6 +8,9 @@ $salaire_pair = array(1500,1500,1700,1800,2000,2200,3300,4500);
 sort($salaire_pair);
 sort($salaire_impair);
 
+#EIFSUQHDFKVJS
+
+
 echo "La moyenne des notes est de " . moyenne($Notes) . " / 20. \n";
 
 echo "salaires impaire : " .moyenne($salaire_impair). ". \n";
